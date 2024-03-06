@@ -1,0 +1,5 @@
+foo
+hello
+this is a change from dev1
+changes from dev2
+chafes in newb
